@@ -1,6 +1,6 @@
 from instabot import Bot
 bot = Bot()
-bot.login(username="holy_nutt", password="XXXXXXXXX")
+bot.login(username="my_acc", password="XXXXXXXXX")
 
 ######  upload a picture #######
 bot.upload_photo("starship.jpg", caption="elon sends one of those to space again")
